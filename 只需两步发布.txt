@@ -1,0 +1,15 @@
+【不用终端，只用 GitHub Desktop】
+
+第 1 步：
+打开 GitHub Desktop，把整个“github-daily-cn”文件夹拖进 GitHub Desktop 窗口。
+
+第 2 步：
+点击右上方蓝色按钮“Publish repository”。
+名称保持 github-daily-cn；取消勾选“Keep this code private”；再点“Publish repository”。
+
+上传完成后：
+进入 GitHub 网站上的这个仓库 → Settings → Pages → Source 选择 GitHub Actions。
+然后进入 Actions → 每日开源应用精选 → Run workflow。
+
+网站地址通常是：
+https://你的GitHub用户名.github.io/github-daily-cn/
